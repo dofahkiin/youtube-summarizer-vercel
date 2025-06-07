@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "api/summarize.js": {
+      "runtime": "nodejs18.x"
+    }
+  }
+}
