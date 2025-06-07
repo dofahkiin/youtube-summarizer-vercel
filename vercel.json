@@ -1,7 +1,7 @@
 {
-  "functions": {
-    "api/summarize.js": {
-      "runtime": "nodejs18.x"
+    "functions": {
+      "api/summarize.js": {
+        "runtime": "@vercel/node@3.0.0"
+      }
     }
   }
-}
