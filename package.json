@@ -1,0 +1,14 @@
+{
+  "name": "youtube-summarizer-vercel",
+  "version": "1.0.0",
+  "description": "Vercel serverless function for YouTube transcript summarization",
+  "type": "module",
+  "scripts": {
+    "dev": "vercel dev",
+    "deploy": "vercel --prod"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "vercel": "^37.0.0"
+  }
+}
